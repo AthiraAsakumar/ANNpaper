@@ -1,4 +1,5 @@
-# ANNpaper
+# Detection of Diabetes Using Multilayer Perceptron
+
 Detection of Diabetes Using Multilayer Perceptron
 Diabetes mellitus is a chronic condition that frequently results in severe complications. Diabetes is 
 diagnosed and predicted using machine learning algorithms. The decision-making process for 
